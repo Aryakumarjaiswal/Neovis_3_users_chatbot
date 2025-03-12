@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set the title of the app
-st.set_page_config(page_title="Welcome to Hotel Management App", page_icon="🏨", layout="centered")
+st.set_page_config(page_title="Neovis external bot assistant", page_icon="🏨", layout="centered")
 
 # App title
 st.title("🏨 Neovis external bot assistant")
